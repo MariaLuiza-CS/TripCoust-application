@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tripcoust</string>
+    <string name="edit_distance">Distância</string>
+    <string name="text_distance">Total de quilômetros</string>
+    <string name="text_autonomy">KMs por Litros</string>
+    <string name="edit_autonomy">Autonomia</string>
+    <string name="edit_price">Preço</string>
+    <string name="text_price">Preço por Litro</string>
+    <string name="text_calculate_coust">seu gasto total será de:</string>
+    <string name="button_calculate">calcular</string>
+</resources>
