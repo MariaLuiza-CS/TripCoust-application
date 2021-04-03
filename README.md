@@ -10,3 +10,4 @@ O usuário digita o total de quilômetros que irá percorrer, o preço da gasoli
 
 # Telas
 
+<img src="https://github.com/MariaLuiza-CS/TripCoust-application/issues/1" width="11%"></img>
