@@ -10,5 +10,5 @@ O usuário digita o total de quilômetros que irá percorrer, o preço da gasoli
 
 # Telas
 
-![snapshotripcoust](https://user-images.githubusercontent.com/62726677/113493130-26721680-94b3-11eb-90ec-0a09591539b8.png)
+<img src="![snapshotripcoust](https://user-images.githubusercontent.com/62726677/113493130-26721680-94b3-11eb-90ec-0a09591539b8.png)" align"left"> 
 ![snapshottripcoust_02](https://user-images.githubusercontent.com/62726677/113493140-37bb2300-94b3-11eb-8fa5-7c2afc8805d6.png)
