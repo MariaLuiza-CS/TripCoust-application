@@ -10,6 +10,6 @@ O usuário digita o total de quilômetros que irá percorrer, o preço da gasoli
 
 # Telas
 
-<img src="https://github.com/MariaLuiza-CS/TripCoust-application/blob/master/snapshotripcoust.png" width="200" >
-<img src="https://github.com/MariaLuiza-CS/TripCoust-application/blob/master/snapshottripcoust_02.png" width="200" >
+<img src="https://github.com/MariaLuiza-CS/TripCoust-application/blob/master/snapshotripcoust.png" width="200" alt="imagem da tela inicial" align="left">
+<img src="https://github.com/MariaLuiza-CS/TripCoust-application/blob/master/snapshottripcoust_02.png" width="200" alt="imagem da tela com dados" align="left">
 
